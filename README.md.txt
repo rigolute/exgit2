@@ -1,2 +1,3 @@
 # Mon oeuvre d'art surréaliste :penc il2:
-je m'appelle emilie jolie
+Je m'appelle Emilie Jolie
+Je m'appelle Nicolas Claude
